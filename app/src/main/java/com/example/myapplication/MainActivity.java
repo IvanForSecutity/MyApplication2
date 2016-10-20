@@ -11,9 +11,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    private void testGit()
-    {
-        int s =23+25;
+    private void testGit() {
+        int s = 23 + 25;
+        int ss = 124;
     }
 
 }
