@@ -5,4 +5,5 @@ package com.example.myapplication;
  */
 
 public class babla {
+    int y=90;
 }
