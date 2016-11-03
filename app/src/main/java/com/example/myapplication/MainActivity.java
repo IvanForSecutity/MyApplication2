@@ -3,6 +3,15 @@ package com.example.myapplication;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+/*
+added to gradle.properties:
+org.gradle.daemon=true
+org.gradle.parallel=true
+
+two checks for offline work
+
+
+ */
 public class MainActivity extends AppCompatActivity {
 
     @Override
