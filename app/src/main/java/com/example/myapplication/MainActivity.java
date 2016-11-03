@@ -24,5 +24,6 @@ public class MainActivity extends AppCompatActivity {
         int s = 23 + 25;
         int ss = 124;
     }
+    int something=0;
 
 }
